@@ -1,0 +1,22 @@
+.active_btn {
+    text-decoration: underline;
+    color: gray;
+}
+
+.section_gray {
+    background-color: #eeecfa;
+}
+
+.right {
+    text-align: right;
+}
+
+@media screen and (max-width: 767px) {
+    .right {
+        text-align: left;
+        padding-left: 10px;
+    }
+}
+
+
+  
